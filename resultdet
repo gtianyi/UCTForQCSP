@@ -1,0 +1,75 @@
+STATE:
+slot:0 0 0 
+block0:3 3 3 
+block1:2 2 2 
+ACTION:
+0 2 
+----------------------------
+STATE:
+slot:1 0 1 
+block0:3 2 2 
+block1:2 2 2 
+ACTION:
+0 1 
+----------------------------
+STATE:
+slot:2 1 1 
+block0:3 2 1 
+block1:1 2 2 
+ACTION:
+0 1 
+----------------------------
+STATE:
+slot:3 2 1 
+block0:2 2 1 
+block1:1 1 2 
+ACTION:
+0 1 
+----------------------------
+STATE:
+slot:4 3 1 
+block0:2 1 1 
+block1:1 1 1 
+ACTION:
+0 1 
+----------------------------
+STATE:
+slot:5 4 1 
+block0:2 1 0 
+block1:0 1 1 
+ACTION:
+-1 1 
+----------------------------
+STATE:
+slot:5 5 1 
+block0:2 0 0 
+block1:0 1 1 
+ACTION:
+-1 2 
+----------------------------
+STATE:
+slot:5 5 2 
+block0:1 0 0 
+block1:0 1 1 
+ACTION:
+-1 2 
+----------------------------
+STATE:
+slot:5 5 3 
+block0:1 0 0 
+block1:0 0 1 
+ACTION:
+-1 2 
+----------------------------
+STATE:
+slot:5 5 4 
+block0:1 0 0 
+block1:0 0 0 
+ACTION:
+-1 2 
+----------------------------
+STATE:
+slot:5 5 5 
+block0:0 0 0 
+block1:0 0 0 
+terminal
